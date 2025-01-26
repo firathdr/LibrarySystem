@@ -1,0 +1,12 @@
+
+
+backend ve frontend dosyalarındaki eklentiler silinmiştir.
+
+front-end için gerekli dosyaları yükleme işlemi = npm install
+
+back-end için gerekli dosyaları yükleme işlemi = pip install -r requirements.txt
+
+çalıştırma işlemleri backend için = python app.py
+front-end için = npm run dev
+ veritabanı olarak mysql kullanıldı 
+
